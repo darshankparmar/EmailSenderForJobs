@@ -1,0 +1,6 @@
+{
+  "email": {
+    "subject": "Exploring Opportunities at {{cName}}",
+    "body": "Hello Hiring Team,\n\nI hope this email finds you well. My name is {{name}}, and I am writing to express my interest in {{pName}} position at {{cName}}, With a solid background in both front-end and back-end development, along with a passion for creating innovative solutions, I am excited about the opportunity to contribute to your team.\n\nMy experience includes proficiency in various programming languages and frameworks, strong problem-solving skills, and a commitment to delivering high-quality code. I am eager to bring my technical expertise and enthusiasm for development to {{cName}} and contribute to its success.\n\nThank you for considering my application. I look forward to the possibility of discussing how my skills align with the needs of your team further.\n\nWarm regards,\n{{name}}"
+  }
+}
